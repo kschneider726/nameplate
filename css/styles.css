@@ -28,17 +28,19 @@ h3 {
     font-family: 'Libre Baskerville', serif;
 }
 
-section p {
+section p,
+section dt {
     color: black;
     font-size: 1em;
-    font-family: 'Libre Baskerville', serif;
-    margin-top: 2em;
-    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    margin-top: .5em;
+    text-align: left;
 }
 
 h4 {
     font-size: 1em;
     font-family: 'Libre Baskerville', serif;
+    margin-bottom: .5em;
 }
 
 
