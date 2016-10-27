@@ -3,7 +3,7 @@ $('h1').lettering();
 
 // Intialize Backstretch
 // FOR GITHUB CHANGE TO $.backstretch('nameplate/img/bg.jpg');
-$.backstretch('/img/bgNameplate.jpg');
+$.backstretch('nameplate/img/bgNameplate.jpg');
 
 // Intialize Masonry
 $('article').masonry({
