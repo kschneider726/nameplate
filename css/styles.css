@@ -2,6 +2,46 @@
 YOUR STYLES
 *******************/
 
+/* Global or Sitewide */
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+/* Text Settings */
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-size: .8em;
+    color: black;
+    line-height: 1.6;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2em;
+    margin-bottom: .5em;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-size: 1.5em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+section p {
+    color: black;
+    font-size: 1em;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 2em;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
 /* Layout */
 * { box-sizing: border-box; }
 
